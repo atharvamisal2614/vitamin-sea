@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const IntroSection = () => {
     return (
-        <section className="flex flex-col md:flex-row items-center justify-between px-6 md:px-16 py-12 bg-gray-100">
+        <section className="flex flex-col md:flex-row items-center justify-between px-6 md:px-16 py-12">
             {/* Left Side - Text Content */}
             <div className="md:w-1/2 max-w-3xl space-y-6 text-center md:text-left">
                 {/* <h2 className="text-3xl md:text-4xl font-bold text-gray-900">Welcome to Our Platform</h2> */}
